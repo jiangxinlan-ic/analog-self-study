@@ -1,0 +1,33 @@
+# Virtuoso 临时文件
+*.log
+*.logFile
+*.wdir
+*cds.lib
+*.cdsinit
+*.lock
+*.bak
+.Ocean/
+runDir/
+spectre.fcinput.scs
+ahdlLib.cache/
+*.raw
+.psf/
+CDS.log
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 临时文件
+*.tmp                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Commit message :chore: add Cadence gitignore
